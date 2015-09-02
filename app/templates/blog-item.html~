@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Videos | BLSJCL</title>
+    
+    <!-- core CSS -->
+    <link href="static/css/bootstrap.min.css" rel="stylesheet">
+    <link href="static/css/font-awesome.min.css" rel="stylesheet">
+    <link href="static/css/prettyPhoto.css" rel="stylesheet">
+    <link href="static/css/animate.min.css" rel="stylesheet">
+    <link href="static/css/main.css" rel="stylesheet">
+    <link href="static/css/responsive.css" rel="stylesheet">
+    
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->       
+    <link rel="shortcut icon" href="images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="static/images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="static/images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="static/images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="static/images/ico/apple-touch-icon-57-precomposed.png">
+</head><!--/head-->
+
+<body>
+
+    <header id="header">
+        <nav class="navbar navbar-inverse" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html"><img src="static/images/45fb81_cb0dbb1a1b224d2797039f19dd92a685.png_srb_p_1162_137_75_22_0.50_1.20_0.png" alt="logo"></a>
+                </div>
+                
+                <div class="collapse navbar-collapse navbar-right">
+                    <ul class="nav navbar-nav">
+                        <li><a href="/index">Home</a></li>
+                        <li><a href="/about-us">About Us</a></li>
+                        <li><a href="/portfolio">Events</a></li>
+                        <li><a href="/blog">Board</a></li> 
+                        <li class="dropdown active">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Media <i class="fa fa-angle-down"></i></a>
+                            <ul class="dropdown-menu">
+                                <li class="active"><a href="/blog-item">Videos</a></li>
+                                <li><a href="/pricing">Photos</a></li>
+                            </ul>
+                        </li>             
+                    </ul>
+                </div>
+            </div><!--/.container-->
+        </nav><!--/nav-->
+        
+    </header><!--/header-->
+
+
+    <section id="services" class="service-item">
+	   <div class="container">
+            <div class="center wow fadeInDown">
+                <h2>Videos</h2>
+                <p class="lead">Checkout our awesome productions!</p>
+            </div>
+
+            
+        </div><!--/.container-->
+    </section><!--/#services-->
+
+<section id="recent-works">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+			<h3 class="media-heading"><b>Sixie Orientation Presentation 2015</b></h3>
+			<div class="media-body">
+                        <div class="responsive-video">
+                        	 <iframe width="420" height="315" src="https://www.youtube.com/embed/MfQs5m84xEg" allowfullscreen></iframe>     	
+                        </div>
+			</div>
+                    </div>
+                </div>
+
+
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="media-body">
+				<h3 class="media-heading"><b>Coming Soon!</b></h3>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="media-body">
+                            <h3 class="media-heading"><b>Coming Soon!</b></h3>
+                        </div>
+                    </div>
+                </div>
+                </div>
+            </div><!--/.row-->
+
+            
+        </div><!--/.container-->
+    </section><!--/#recent-works-->
+
+
+
+
+    <script src="static/js/jquery.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script src="static/js/jquery.prettyPhoto.js"></script>
+    <script src="static/js/jquery.isotope.min.js"></script>
+    <script src="static/js/main.js"></script>
+    <script src="static/js/wow.min.js"></script>
+</body>
+</html>
