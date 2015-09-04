@@ -31,6 +31,6 @@ def pricing():
 def fourofour():
 	return render_template('404.html')
 
-
-
-
+@app.route('/blog-item-pub')
+def blogpub():
+	return render_template('blog-item-pub.html')
