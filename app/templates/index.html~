@@ -59,6 +59,7 @@
                             <ul class="dropdown-menu">
                                 <li><a href="/blog-item">Videos</a></li>
                                 <li><a href="/pricing">Photos</a></li>
+                                <li><a href="/blog-item-pub">Publications</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -137,8 +138,8 @@
                 <div class="col-sm-6 col-md-4">
                     <div class="media services-wrap wow fadeInDown">
                         <div class="media-body">
-                            <h3 class="media-heading"><b>Update 1</b></h3>
-                            <p>Info</p>
+                            <h3 class="media-heading"><b>SIGN UP FOR BLSCJL!!</b></h3>
+                            <p>Fill out the following google document to be added to the BLSJCL mailing list: <a href="http://goo.gl/forms/z7AJ6Rh5Ou">Click me!</a></p>
                         </div>
                     </div>
                 </div>
@@ -148,8 +149,8 @@
                 <div class="col-sm-6 col-md-4">
                     <div class="media services-wrap wow fadeInDown">
                         <div class="media-body">
-                            <h3 class="media-heading"><b>Update 2</b></h3>
-                            <p>Info</p>
+                            <h3 class="media-heading"><b>Membership Forms!</b></h3>
+                            <p>Check out the publications part of our website to find your membership application form. Fill this out and return to Ms. Foley in room 031!</p>
                         </div>
                     </div>
                 </div>
@@ -159,8 +160,8 @@
                 <div class="col-sm-6 col-md-4">
                     <div class="media services-wrap wow fadeInDown">
                         <div class="media-body">
-                            <h3 class="media-heading"><b>Update 3</b></h3>
-                            <p>Info</p>
+                            <h3 class="media-heading"><b>JCL Kickoff! </b></h3>
+                            <p>Join BLSJCL on October 17th for JCL Kickoff! Head over to the publications to find your forms.</p>
                         </div>
                     </div>
                 </div>
@@ -375,7 +376,7 @@
                 <div class="col-sm-6 col-md-4">
                     <div class="media services-wrap wow fadeInDown">
                         <div class="pull-left">
-                            <img class="img-responsive" src="static/images/services/services6.png">
+                            <img class="img-responsive" src="static/images/Ms. Burns.JPG">
                         </div>
                         <div class="media-body">
                             <h3 class="media-heading">Ms. Burns</h3>
