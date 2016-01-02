@@ -34,3 +34,23 @@ def fourofour():
 @app.route('/blog-item-pub')
 def blogpub():
 	return render_template('blog-item-pub.html')
+
+@app.route('/certamen')
+def certamen():
+	return render_template('certamen.html')
+
+@app.route('/kickoff')
+def kickoff():
+	return render_template('kickoff.html')
+
+@app.route('/states')
+def states():
+	return render_template('states.html')
+
+@app.route('/nationals')
+def nationals():
+	return render_template('nationals.html')
+
+@app.route('/midnight')
+def midnight():
+	return render_template('midnight.html')
